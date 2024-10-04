@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # po
 # ladle
 # sahjcalkchas
+# gggoog
